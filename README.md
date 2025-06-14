@@ -1,16 +1,12 @@
 # GH4Woman-modulo3  :octocat: 
 
-Teste para o GitHub 4 Women
-
-<br>
+Testing for GitHub 4 Women
 
 ## Collaboration Features
-Este repositório tem o objetivo do entendimento das aulas do Módulo 3 e a parte prática dos assuntos.
+This repository aims to understand the Module 3 classes and the practical part of the subjects. The task consolidates the knowledge presented in class and addresses the following topics:
 
-A tarefa visa consolidar o conhecimento apresentado na aula e abordar os seguintes tópicos:
-
-- Criação de repositório
-- Criar e gerenciar Issues
-- Criar Discussions
-- Trabalhar com Pull Requests (PR)
-- Criar e gerenciar Wikis
+- Creating a repository
+- Creating and managing Issues
+- Creating Discussions
+- Working with Pull Requests (PR)
+- Creating and managing Wikis
